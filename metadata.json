@@ -1,0 +1,5 @@
+{
+  "name": "Remix TrustShield AI",
+  "description": "An AI-powered desktop chat interface for analyzing photos and videos to detect deepfakes and digital manipulations.",
+  "requestFramePermissions": []
+}
